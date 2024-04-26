@@ -1,2 +1,2 @@
 # default
-[scrub](scrubit.md)
+[scrub](./scrubit.md)
